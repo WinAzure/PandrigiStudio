@@ -18,9 +18,9 @@ PandrigiStudio is a simple web-based code editor built with CodeMirror. It allow
 
 You can clone this repository to run it locally:
 
-
-git clone https://github.com/yourusername/PandrigiStudio.git
-
+```bash
+git clone https://github.com/WinAzure/PandrigiStudio.git
+```
 
 Alternatively, you can just open `index.html` in your browser.
 
@@ -34,4 +34,4 @@ Alternatively, you can just open `index.html` in your browser.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
